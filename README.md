@@ -1,14 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap'); /* font-family: "Kanit", sans-serif; */
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap'); /* font-family: "Courier Prime", monospace; */
-@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap'); /* font-family: "Itim", cursive; */
-@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap'); /* font-family: "Sarabun", sans-serif; */
-* { font-family: "Sarabun", sans-serif; font-weight: auto; font-style: auto; }
-.ignor { opacity: 0.25; text-decoration: line-through; text-decoration-color: rgba(255, 50, 50, 0.75); text-decoration-style: double; }
-</style>
-
-
-
 # Topic of Requirement
 - [x] [Description](#description)
 - [x] [คอร์สเรียนออนไลน์](#คอร์สเรียนออนไลน์)
